@@ -1,0 +1,9 @@
+Teks:
+Aplikasi Penghitung Kata ini memungkinkan pengguna untuk menghitung jumlah kata, karakter, dan kalimat dalam teks yang dimasukkan melalui antarmuka yang sederhana dan mudah digunakan.
+
+Hasil Perhitungan:
+Jumlah Kata: 24
+Jumlah Karakter: 183
+Jumlah Kalimat: 1
+Jumlah Paragraf: 1
+
